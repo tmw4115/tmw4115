@@ -1,6 +1,6 @@
 <!-- Startup Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1400&pause=600&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!;I'm+Trent+Wilson!;System+Online" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1400&pause=600&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!;I'm+Trent+Wilson!" />
 </h1>
 
 <!-- Static Final State -->
