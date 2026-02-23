@@ -1,13 +1,24 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+Trent+Wilson" />
-</h1>
+<!-- Header -->
+<h1 align="center">Hi There</h1>
+
+<h2 align="center">I'm Trent Wilson</h2>
+
+<br>
+
+<!-- Animated Loading Bar -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=4&section=header&animation=fadeIn" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
+</p>
 
 <hr>
 
-<h2>About Me</h2>
+<h2 align="center">About Me</h2>
 
-<p>
+<p align="center">
 I'm a technology hobbyist who often has too much time on his hands.
 </p>
 
@@ -22,57 +33,53 @@ I'm a technology hobbyist who often has too much time on his hands.
 
 <hr>
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFAA&vCenter=true&width=300&lines=Technical+Skills" />
-</h2>
+<h2 align="center">Technical Skills</h2>
 
 <h3>Languages</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=black" />
 </p>
 
 <h3>Databases</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=black" />
 </p>
 
 <h3>Frameworks & Libraries</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CustomTkinter-white?style=for-the-badge" />
 </p>
 
 <h3>Data Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/R_Cloud-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-white?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/RStudio-white?style=for-the-badge&logo=rstudio&logoColor=black" />
+  <img src="https://img.shields.io/badge/R_Cloud-white?style=for-the-badge&logo=r&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=microsoft-excel&logoColor=black" />
 </p>
 
 <h3>Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-white?style=for-the-badge&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+  <img src="https://img.shields.io/badge/Autopsy-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hashcat-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black" />
 </p>
 
 <hr>
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF6EC7&vCenter=true&width=300&lines=Currently+Learning" />
-</h2>
+<h2 align="center">Currently Learning</h2>
 
 <ul>
   <li>Advanced Machine Learning Concepts</li>
@@ -83,23 +90,23 @@ I'm a technology hobbyist who often has too much time on his hands.
 
 <hr>
 
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <hr>
 
-<h2>Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
