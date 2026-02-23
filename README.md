@@ -83,11 +83,3 @@ I'm a technology hobbyist who often has too much time on his hands.
 </ul>
 
 <hr>
-
-<h2 align="center"><b>GitHub Stats</b></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
-</p>
