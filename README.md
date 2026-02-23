@@ -1,22 +1,16 @@
-<!-- Header -->
-<h1 align="center">Hi There</h1>
+<!-- Animated Intro (Plays Once) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+There!;I'm+Trent+Wilson!&repeat=false" />
+</h1>
 
-<h2 align="center">I'm Trent Wilson</h2>
-
-<br>
-
-<!-- Animated Loading Bar -->
+<!-- Animated ASCII Loading Bar (Loops Forever) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=4&section=header&animation=fadeIn" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=400&pause=100&color=FFFFFF&center=true&vCenter=true&width=600&lines=%5B--------------------%5D;%5B█-------------------%5D;%5B██------------------%5D;%5B███-----------------%5D;%5B████----------------%5D;%5B█████---------------%5D;%5B██████--------------%5D;%5B███████-------------%5D;%5B████████------------%5D;%5B█████████-----------%5D;%5B██████████----------%5D;%5B███████████---------%5D;%5B████████████--------%5D;%5B█████████████-------%5D;%5B██████████████------%5D;%5B███████████████-----%5D;%5B████████████████----%5D;%5B█████████████████---%5D;%5B██████████████████--%5D;%5B███████████████████-%5D;%5B████████████████████%5D&repeat=true" />
 </p>
 
 <hr>
 
-<h2 align="center">About Me</h2>
+<h2 align="center"><b>About Me</b></h2>
 
 <p align="center">
 I'm a technology hobbyist who often has too much time on his hands.
@@ -33,53 +27,53 @@ I'm a technology hobbyist who often has too much time on his hands.
 
 <hr>
 
-<h2 align="center">Technical Skills</h2>
+<h2 align="center"><b>Technical Skills</b></h2>
 
-<h3>Languages</h3>
+<h3><b>Languages</b></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-<h3>Databases</h3>
+<h3><b>Databases</b></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<h3>Frameworks & Libraries</h3>
+<h3><b>Frameworks & Libraries</b></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-white?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CustomTkinter-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge" />
 </p>
 
-<h3>Data Tools</h3>
+<h3><b>Data Tools</b></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/PowerBI-white?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/RStudio-white?style=for-the-badge&logo=rstudio&logoColor=black" />
-  <img src="https://img.shields.io/badge/R_Cloud-white?style=for-the-badge&logo=r&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-white?style=for-the-badge&logo=microsoft-excel&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Cloud-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-<h3>Tools</h3>
+<h3><b>Tools</b></h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Wireshark-white?style=for-the-badge&logo=wireshark&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-white?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
-  <img src="https://img.shields.io/badge/Autopsy-white?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hashcat-white?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <hr>
 
-<h2 align="center">Currently Learning</h2>
+<h2 align="center"><b>Currently Learning</b></h2>
 
 <ul>
   <li>Advanced Machine Learning Concepts</li>
@@ -90,23 +84,10 @@ I'm a technology hobbyist who often has too much time on his hands.
 
 <hr>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center"><b>GitHub Stats</b></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<hr>
-
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
 </p>
