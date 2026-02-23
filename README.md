@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+Trent+Wilson;Aspiring+Data+Scientist;AI+Researcher+%7C+Academic+Tutor+%7C+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+Trent+Wilson" />
 </h1>
 
 <hr>
