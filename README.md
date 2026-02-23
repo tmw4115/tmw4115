@@ -1,12 +1,12 @@
-<!-- Animated Name -->
+<!-- Startup Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!;I'm+Trent+Wilson!&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1400&pause=600&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!;I'm+Trent+Wilson!;System+Online" />
 </h1>
 
-<!-- ASCII Loading Bar -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=250&pause=50&color=FFFFFF&center=true&vCenter=true&width=650&lines=%5B--------------------%5D;%5B=%3D------------------%5D;%5B==%3D-----------------%5D;%5B===%3D----------------%5D;%5B====%3D---------------%5D;%5B=====%3D--------------%5D;%5B======%3D-------------%5D;%5B=======%3D------------%5D;%5B========%3D-----------%5D;%5B=========%3D----------%5D;%5B==========%3D---------%5D;%5B===========%3D--------%5D;%5B============%3D-------%5D;%5B=============%3D------%5D;%5B==============%3D-----%5D;%5B===============%3D----%5D;%5B================%3D---%5D;%5B=================%3D--%5D;%5B==================%3D-%5D;%5B===================%3D%5D&repeat=true" />
-</p>
+<!-- Static Final State -->
+<h2 align="center" style="color:#00FF00;">
+  ---===▬▬▬▬▥▥▥▥❒❒ %%%% ❒❒▥▥▥▥▬▬▬▬===---
+</h2>
 
 <hr>
 
