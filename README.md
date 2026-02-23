@@ -1,18 +1,12 @@
-<!-- AI Boot Sequence Header -->
+<!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1600&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!;I'm+Trent+Wilson!&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi+There!;I'm+Trent+Wilson!&repeat=true" />
 </h1>
 
+<!-- ASCII Loading Bar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1200&pause=400&color=00FFAA&center=true&vCenter=true&width=650&lines=Initializing+Profile...;Loading+AI+Modules...;Establishing+Neural+Network...;System+Online.&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=250&pause=50&color=FFFFFF&center=true&vCenter=true&width=650&lines=%5B--------------------%5D;%5B=%3D------------------%5D;%5B==%3D-----------------%5D;%5B===%3D----------------%5D;%5B====%3D---------------%5D;%5B=====%3D--------------%5D;%5B======%3D-------------%5D;%5B=======%3D------------%5D;%5B========%3D-----------%5D;%5B=========%3D----------%5D;%5B==========%3D---------%5D;%5B===========%3D--------%5D;%5B============%3D-------%5D;%5B=============%3D------%5D;%5B==============%3D-----%5D;%5B===============%3D----%5D;%5B================%3D---%5D;%5B=================%3D--%5D;%5B==================%3D-%5D;%5B===================%3D%5D&repeat=true" />
 </p>
-
-<!-- Clean ASCII Loading Bar -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=300&pause=50&color=FFFFFF&center=true&vCenter=true&width=650&lines=%5B%3E-------------------%5D;%5B=%3E------------------%5D;%5B==%3E-----------------%5D;%5B===%3E----------------%5D;%5B====%3E---------------%5D;%5B=====%3E--------------%5D;%5B======%3E-------------%5D;%5B=======%3E------------%5D;%5B========%3E-----------%5D;%5B=========%3E----------%5D;%5B==========%3E---------%5D;%5B===========%3E--------%5D;%5B============%3E-------%5D;%5B=============%3E------%5D;%5B==============%3E-----%5D;%5B===============%3E----%5D;%5B================%3E---%5D;%5B=================%3E--%5D;%5B==================%3E-%5D;%5B===================%3E%5D&repeat=true" />
-</p>
-
-<hr>
 
 <hr>
 
