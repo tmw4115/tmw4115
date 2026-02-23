@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2 align="center"><b>About Me</b></h2>
+<h2 align="center"><b>===▬▬ ABOUT ME ▬▬===</b></h2>
 
 <p align="center">
 I'm a technology hobbyist who often has too much time on his hands.
@@ -27,7 +27,7 @@ I'm a technology hobbyist who often has too much time on his hands.
 
 <hr>
 
-<h2 align="center"><b>Technical Skills</b></h2>
+<h2 align="center"><b>===▬▬ TECHNICAL SKILLS ▬▬===</b></h2>
 
 <h3><b>Languages</b></h3>
 
@@ -73,13 +73,13 @@ I'm a technology hobbyist who often has too much time on his hands.
 
 <hr>
 
-<h2 align="center"><b>Currently Learning</b></h2>
+<h2 align="center"><b>===▬▬ CURRENTLY LEARNING ▬▬===</b></h2>
 
 <ul>
-  <li>Advanced Machine Learning Concepts</li>
-  <li>Deep Learning & Neural Networks</li>
+  <li>Advanced Data Structures</li>
+  <li>Advanced Networking Systems</li>
   <li>Cybersecurity & Digital Forensics</li>
-  <li>Statistical Modeling in R</li>
+  <li>Statistical Modeling</li>
 </ul>
 
 <hr>
