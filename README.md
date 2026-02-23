@@ -12,12 +12,12 @@ I'm a technology hobbyist who often has too much time on his hands.
 </p>
 
 <ul>
-  <li>📍 Location: Lapeer, Michigan</li>
-  <li>🎓 Full-Time Student</li>
-  <li>🧠 Aspiring Data Scientist</li>
-  <li>🤖 Artificial Intelligence Researcher</li>
-  <li>📚 Academic Tutor</li>
-  <li>💻 Developer</li>
+  <li>✫ Location: Lapeer, Michigan</li>
+  <li>✫ Full-Time Student</li>
+  <li>✫ Aspiring Data Scientist</li>
+  <li>✫ Artificial Intelligence Researcher</li>
+  <li>✫ Academic Tutor</li>
+  <li>✫ Developer</li>
 </ul>
 
 <hr>
