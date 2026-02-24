@@ -80,6 +80,7 @@ I'm a technology hobbyist who often has too much time on his hands.
   <li>Advanced Networking Systems</li>
   <li>Cybersecurity & Digital Forensics</li>
   <li>Statistical Modeling</li>
+  <li>Database Concepts</li>
 </ul>
 
 <hr>
